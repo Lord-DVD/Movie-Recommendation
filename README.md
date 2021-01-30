@@ -16,5 +16,6 @@ consists of 105339 ratings applied over 10329 movies.
   
 <p>Recommendation Systems are the most popular type of machine learning applications; that are used in all sectors. They are an improvement over the traditional classification algorithms as they can take many classes of input and provide similarity ranking based algorithms to provide the user with accurate results. These recommendation systems have evolved over time and have incorporated many advanced machine learning techniques to provide the users with the content that they want. </p>  
 
-#####  Please refer to the pdf file for complete workings.  
+#####  Please refer to the [pdf](https://github.com/Lord-DVD/Movie-Recommendation/blob/main/Movie_Recommendation_System.pdf) file for complete workings.  
   
+> Please use the download button if git-hub doesn't show the pdf preview in browser.
